@@ -1,0 +1,26 @@
+/* CSS Document */
+
+@charset "UTF-8";
+/* CSS Document */
+ 
+.launch-container{
+    border: solid 1px lightgrey;
+    margin-top: 30px;
+    margin-left: 5px;
+    padding: 15px;
+	background: #121212;
+	color: #fff;
+	min-width: 200px;
+	min-height: 300px;
+	
+	
+	
+}
+ 
+.launch-container:hover{
+        box-shadow: 2px 2px 1.5px #888888;
+	background-image: url('https://pixabay.com/get/ef36b40d2fe9002ad25a5840ee4a439ee57ee4c818b415419df4c679a5e5/ball-63527_1920.jpg');
+	color: #fff;
+	
+}
+
